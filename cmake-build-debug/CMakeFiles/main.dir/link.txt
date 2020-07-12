@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main.dir/glad.c.o CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/ShaderProgram.cpp.o  -o main -framework OpenGL /usr/local/lib/libglfw.3.2.dylib -ldl libSOIL.a -framework OpenGL -framework CoreFoundation 

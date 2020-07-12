@@ -1,0 +1,4 @@
+/Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра/cmake-build-debug/CMakeFiles/SOIL.dir
+/Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра/cmake-build-debug/CMakeFiles/main.dir

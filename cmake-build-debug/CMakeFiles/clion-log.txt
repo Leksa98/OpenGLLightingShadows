@@ -1,0 +1,4 @@
+"/Users/Alexa/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Alexa/Desktop/MSU_tasks/машграф/314_Герценштейн_Александра/cmake-build-debug
